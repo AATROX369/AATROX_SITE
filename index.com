@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1{
+                background-color:aqua;
+            }
+            .center{
+                text-align:center;
+                background-color: rgb(44, 202, 255);
+            }
+        </style>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1 class="center">Welcome to Aatrox Website</h1>
+        <h4><p>If you want to learn coding click on the below link and download the app best way to learn code.</p></h4>
+        <a href="http://getmimo.com">MIMO</a>
+        <p>use this app for practice code which you learn click the below link to downlod visual studio.</p>
+        <a href="http://https://code.visualstudio.com">Visual Studio</a>
+        <p>if you want to increase your typing speed click the below link.</p>
+        <a href="http://Zty.pe">Zty.pe</a>
+    </body>
+</html>
